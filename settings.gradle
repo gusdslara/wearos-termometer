@@ -1,0 +1,2 @@
+rootProject.name = "termometro_wearOS"
+include ':app'
