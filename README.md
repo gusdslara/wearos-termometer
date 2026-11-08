@@ -49,7 +49,6 @@ adb install -r app/build/outputs/apk/debug/app-debug.apk
 
 ---
 
-## 📜 Credits & Architecture
+## 📜 Architecture & Technologies
 
-- Native Wear OS project built with Android Sensor Framework and Samsung Health Privileged Sensor SDK.
-- Developed by **Gustavo Lara** ([@gusdslara](https://github.com/gusdslara)).
+- Native Wear OS application powered by Android Sensor Framework and Samsung Health Privileged Sensor SDK.
